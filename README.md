@@ -13,6 +13,7 @@ So it takes a huge amount of time and resources. There also chances of errors.
 
 👉 In this Project i have made an automation for this whole process that will use **Microsoft Power BI** and **Outlook integration**.  
 👉 In this automation an email with an excel attachment received in outlook, it will automatically comes in Power BI, automatically cleaned and transformed, updating the visuals in report and this updated report will automatically sent to the stakeholders in their email inbox.
+
 👉 Porcess: "email received in outlook" ---> "comes in Power BI" ---> "cleaned & transformed" ---> "report updated with new data "---> "report send to stakholder"
 
 ---
