@@ -49,7 +49,7 @@ In Microsoft Power BI get data through Microsoft Exchange Online:
 ## 🔧 Requirements
 - The most recent Power BI Desktop version is advised but you can aslo you any previous reliable version.  
 - A Corporate email is required for Microsoft Exchange Online, Support for Gmail or Yahoo is not available. It will attach the corporate email with Power BI.
-- Understanding the basics of how to filter and arrange emails in folders using Outlook rules option.
+- Understanding the basics of how to filter and arrange emails in folders using Outlook "Rules" option.
 
 ---
 
@@ -70,7 +70,7 @@ Monthly files in our case contained the following data:
 4. **Extract Data** → Use a function to extract data, in our case it is "Excel.Workbook()". For other file types this function is little different like for csv it is "CSV.Document(), for pdf it would be PDF.Tables().
 5. **Combine Datasets** → All files will be appended into a single dataset to make a single Combined dataset.  
 6. **Create Dashboard** → Make beautiful Visuals for profitabiltiy, trends, sales and regional insights.
-7. **Third party Visual** → I have also addeda third party visual call scroller for more insightfull report creation. This is a visual you have normaly seen in news channels and stock markets.
+7. **Third party Visual** → I have also added a third party visual called scroller for more insightfull report creation. This is a visual you have mostly seen in news channels and stock markets.
 8. **Publish to Power BI Service** → Add subscriptions for the stakeholders to whom you want to sent report at scheduled day and time. so the stakeholders can automatically receive the report through email daily or weekly. Also set scheduled refresh, whenever a new email comes in outlook with the specific subject line, the dataset will be refreshed automatically and the report will be updated.
 
 ---
