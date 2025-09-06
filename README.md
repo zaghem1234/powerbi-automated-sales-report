@@ -84,7 +84,7 @@ Monthly files in our case contained the following data:
 ---
 
 ## 📸 Report
-![Report](Resources/atuomated sales pbi screenshot.png)
+![Report](Resources/atuomated%20sales%20pbi%20screenshot.png)
 
 ---
 
