@@ -83,8 +83,8 @@ Monthly files in our case contained the following data:
 
 ---
 
-## 📸 Dashboard
-![Main-Dashboard](Resources/main-dashboard.jpg)
+## 📸 Report
+![Report](Resources/atuomated sales pbi screenshot.png)
 
 ---
 
