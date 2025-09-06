@@ -16,7 +16,7 @@ So it takes a huge amount of time and resources. There also chances of errors.
 
 👉 Porcess: "email received in outlook" ---> "comes in Power BI" ---> "cleaned & transformed" ---> "report updated with new data "---> "report send to stakholder"
 
-[Report](https://app.powerbi.com/view?r=eyJrIjoiZGE5NjNjMWUtOTZhYi00YWRlLTg4ZTQtNmE5NjJlNTE0MDc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Link of Report](https://app.powerbi.com/view?r=eyJrIjoiZGE5NjNjMWUtOTZhYi00YWRlLTg4ZTQtNmE5NjJlNTE0MDc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
