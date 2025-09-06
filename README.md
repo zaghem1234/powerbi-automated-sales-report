@@ -20,7 +20,7 @@ So it takes a huge amount of time and resources. There also chances of errors.
 
 ## 🚀 Problem Statement
 - Data updates frequently through email attachments (it may be hourly or monthly reports).  
-- Analysts spent **months of effort annually** on repetitive manual tasks. For analysis, "Annually months of efforts" is need to perform manual repetitive tasks. 
+- For analysis, "Annually months of efforts" is need to perform manual repetitive tasks. 
 - Delay in report, chances of errors, and conficting.  
 
 ---
